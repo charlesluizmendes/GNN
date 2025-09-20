@@ -1,4 +1,4 @@
-# GNN (Graph Neural Network)
+# Node Classification
 
 Prever as classes ou rótulos dos nós. Pode ser utilizado para detectar entidades fraudulentas na rede em segurança cibernética, assim pode ser um problema de classificação de nós.
 

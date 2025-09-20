@@ -31,10 +31,10 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 Após isso, vamos criar o modelo de previsão de Links com o notebook:
 
-[processing.ipynb](https://github.com/charlesluizmendes/GNN/blob/main/src/processing.ipynb)
+[processing.ipynb](https://github.com/charlesluizmendes/GNN/blob/feature/linkPrediction/src/processing.ipynb)
 
 ### Inferência
 
 Agora podemos fazer a inferência do modelo gerado na etapa anterior, basta executar o notebook:
 
-[inference.ipynb](https://github.com/charlesluizmendes/GNN/blob/main/src/inference.ipynb)
+[inference.ipynb](https://github.com/charlesluizmendes/GNN/blob/feature/linkPrediction/src/inference.ipynb)

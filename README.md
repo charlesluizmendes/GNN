@@ -1,4 +1,4 @@
-# GNN (Graph Neural Network)
+# Edge Classification
 
 Classifica a carga (baixa, média ou alta) nas conexões de rede. Pode ser utilizado em sistemas de redes ad hoc para identificar riscos de congestionamento e aumento de latência quando múltiplos nós comunicam simultaneamente, auxiliando no balanceamento de tráfego e na prevenção de falhas.
 

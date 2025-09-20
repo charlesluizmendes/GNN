@@ -1,4 +1,4 @@
-# GNN (Graph Neural Network)
+# Link Prediction
 
 Prevê a existência de potenciais ligações (arestas) entre nós.  Pode ser utilizado para um serviço de rede social sugere possíveis conexões de amigos com base em dados de rede.
 

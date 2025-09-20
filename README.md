@@ -1,6 +1,6 @@
 # GNN (Graph Neural Network)
 
-Rede Neural de Grafos utilizando PyTorch e PyTorch Geometric.
+Prevê a existência de potenciais ligações (arestas) entre nós.  Pode ser utilizado para um serviço de rede social sugere possíveis conexões de amigos com base em dados de rede.
 
 ## Ambiente 
 
@@ -29,7 +29,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### Processamento
 
-Após isso, vamos criar o modelo treinando para análise de sentimentos com o notebook:
+Após isso, vamos criar o modelo de previsão de Links com o notebook:
 
 [processing.ipynb](https://github.com/charlesluizmendes/GNN/blob/main/src/processing.ipynb)
 

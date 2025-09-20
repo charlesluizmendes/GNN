@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Outros exemplos comuns
+*.log
+*.env
+.DS_Store
+
+# VSCode
+.vscode
+
+# Datasets Salvos
+datasets/
+
+# Modelos Salvos
+models/
+
+# Resultados Salvos
+results/

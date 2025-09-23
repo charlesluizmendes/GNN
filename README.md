@@ -17,6 +17,9 @@ Ou manualmente através dos seguintes comandos:
 ```
 pip install torch
 pip install torch-geometric
+pip install pandas
+pip install numpy
+pip install sklearn
 ```
 
 * Se possuir recursos de CUDA:
